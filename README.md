@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi 👋, I’m Mudeh Dieudonne Mukum
 
-<!--
-**MudehDieudonne/MudehDieudonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Full-Stack Developer  
+🌍 Based in Cameroon | Open to Remote Opportunities  
+🚀 Building real-world, production-focused web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏽‍💻 About Me
+
+I’m a junior developer focused on **shipping real products**, not just tutorials.  
+I enjoy turning ideas into clean, functional, and user-friendly applications while learning how systems work under the hood.
+
+🔭 Currently working on: Job platforms & dashboards  
+🌱 Currently learning: Advanced React, Expo, cloude, DevOps   
+👯 Open to: Open-source & startup collaborations  
+💬 Ask me about: React, Next.js, NestJS, PostgreSQL  
+📫 Reach me at: [mukummudeh@gmail.com]
+
+---
+
+
+## 🤝 Open to Opportunities
+
+I’m currently open to:
+- Junior Frontend / Full-Stack roles  
+- Internships  
+- Open-source contributions  
+- Remote startup projects  
+
+If you’re building something meaningful, let’s connect 🚀
