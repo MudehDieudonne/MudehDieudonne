@@ -12,9 +12,9 @@ I’m a junior developer focused on **shipping real products**, not just tutoria
 I enjoy turning ideas into clean, functional, and user-friendly applications while learning how systems work under the hood.
 
 🔭 Currently working on: Job platforms & dashboards  
-🌱 Currently learning: Advanced React, Expo, cloude, DevOps   
+🌱 Currently learning: Advanced React, Expo, cloude, DevOps, php  
 👯 Open to: Open-source & startup collaborations  
-💬 Ask me about: React, Next.js, NestJS, PostgreSQL  
+💬 Ask me about: Javascript, React, Next.js, NestJS, PostgreSQL, Devops 
 📫 Reach me at: [mukummudeh@gmail.com]
 
 ---
